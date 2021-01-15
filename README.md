@@ -10,5 +10,5 @@ To run on Google Colab:
 * Uncomment second cell and run once to download datasets to Google Colab instance (!git clone https://github.com/farhansiddiqui/cnn-class.git)
 * Recomment previous cell to avoid cloning repo at every run (#!git clone https://github.com/farhansiddiqui/cnn-class.git)
 * Third cell, comment line -> #base_path = "." 
-* Third cell, uncomment line -> base_path = "/content"
+* Third cell, uncomment line -> base_path = "/content/cnn-class"
 * Runtime -> Run all
