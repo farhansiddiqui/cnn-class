@@ -1,4 +1,4 @@
-# Convolutional Neural Network (CNN) Class supporting files
+# Convolutional Neural Network (CNN) Class - supporting files
 
 Sample code and datasets to demonstrate Convolutional Neural Network (CNN) concepts and practices.
 
